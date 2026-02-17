@@ -29,10 +29,25 @@ A modern, fully responsive landing page built using Vue 3, Vite, Bootstrap 5, an
 ## 📂 Structure
 
 src/
-├── components/ (Navbar, Footer)
-├── sections/ (Hero, Products, Clients, Cta)
+├── components/
+│   ├── Navbar.vue
+│   └── Footer.vue
+│
+├── sections/
+│   ├── Hero.vue
+│   ├── Products.vue
+│   ├── Clients.vue
+│   └── Cta.vue
+│
 ├── assets/
+│   ├── hero-bg.png
+│   ├── geobizz-card.png
+│   ├── sfa-card.png
+│   └── clients/
+│
 ├── styles/
+│   └── main.scss
+│
 ├── App.vue
 └── main.js
 
