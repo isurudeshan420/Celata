@@ -28,6 +28,7 @@ A modern, fully responsive landing page built using Vue 3, Vite, Bootstrap 5, an
 
 ## 📂 Structure
 
+```
 src/
 ├── components/
 │   ├── Navbar.vue
@@ -50,6 +51,7 @@ src/
 │
 ├── App.vue
 └── main.js
+```
 
 ---
 
