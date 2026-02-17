@@ -1,0 +1,28 @@
+@import "bootstrap/scss/bootstrap";
+
+/* Your custom styles below */
+:root {
+  --brand: #2563eb;
+}
+
+.navbar .nav-link {
+  font-weight: 500;
+}
+
+.navbar .btn {
+  font-weight: 500;
+}
+
+/* Default body font */
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  /* Headings use Sora */
+  h1, h2, h3, h4, h5, h6,
+  .hero-title,
+  .section-title {
+    font-family: 'Sora', sans-serif;
+  }
+  
