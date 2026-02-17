@@ -20,9 +20,6 @@ A modern, fully responsive landing page built using Vue 3, Vite, Bootstrap 5, an
 - Bootstrap grid system
 - Component-based structure
 - Scoped section styling
-- Optimized asset handling
-- Clean typography system
-- Hover interactions and smooth transitions
 
 ---
 
